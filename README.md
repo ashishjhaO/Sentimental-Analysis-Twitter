@@ -14,7 +14,8 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `Twitter Sentimental Model.py`,'TwitterProcess.py' and 'Map.py'. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. 
+Template code is provided in the `Twitter Sentimental Model.py`,'TwitterProcess.py' and 'Map.py'. 
+
 
 ### Run
 
